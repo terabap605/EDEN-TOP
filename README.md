@@ -1,1 +1,46 @@
+<img src="https://i.imgur.com/oeFVsoI.jpeg" alt="banner">
 
+<h1 align="center">
+  <img src="./dashboard/images/logo-non-bg.png" width="22px">
+  <b>Hey Welcome 😽</b>
+</h1>
+
+## <b>Introduction</b>
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- **𝗡𝗔𝗠𝗘 : MUNTASIR MAHNUD**
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- **𝗥𝗘𝗟𝗜𝗚𝗜𝗢𝗡 : 𝗜𝗦𝗟𝗔𝗠**
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- **𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡 : 𝗦𝗧𝗨𝗗𝗬**
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- **𝗥𝗘𝗟𝗔𝗧𝗜𝗢𝗡𝗦𝗛𝗜𝗣 : N/A**
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- **𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :** (https://www.facebook.com/share/1FxAs9r7uB/)
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- **𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠 :** **[𝗟𝗢𝗔𝗗𝗜𝗡𝗚...]()**
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+#### **Join us in Messenger Group (NOT FOR GIRLS SORRY)✨**
+
+##  
+**If you encounter any issues or have questions related to this project, feel free to message us on Messenger. We're here to help!**
+
+<p align="center">
+<img align="center" alt="PNG" src=""/>
+</p>
+
+<h1 align='center'>
+<b>🎀 admin</b>
+</h1>
+
+<hr>
+
+- **Fix goat bot fork V2!**  
+- **Messenger : https://m.me/ibonex.edenXtonu**
